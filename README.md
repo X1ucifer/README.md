@@ -29,10 +29,10 @@
 <br/>
 
 <a href="https://github.com/X1ucifer">
-  <img src="https://github-readme-stats.vercel.app/api?username=lenin0x321&show_icons=true&theme=blue-green&layout=compact" alt="X1ucifer GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=X1ucifer&show_icons=true&theme=blue-green&layout=compact" alt="X1ucifer GitHub Stats" />
 </a>
 <a href="https://github.com/X1ucifer">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenin0x321&show_icons=true&theme=blue-green&layout=compact" alt"Most use languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X1ucifer&show_icons=true&theme=blue-green&layout=compact" alt"Most use languages"/>
 </a>
 <br />
 
