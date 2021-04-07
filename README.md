@@ -1,4 +1,4 @@
-<h2>Hi, I'm Akhil_Jinu! <img src="https://media.giphy.com/media/l4Ki93SAmKFgJnObS/source.gif" width="50"></h2>
+<h2>Hi, I'm Akhil_Jinu! <img src="https://media.giphy.com/media/l4Ki93SAmKFgJnObS/source.gif" width="50" align='center'></h2>
 <img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/source.gif" width="230">
 <br/>
 <a href="https://twitter.com/">
