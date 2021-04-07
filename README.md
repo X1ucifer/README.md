@@ -1,23 +1,23 @@
 <h2>Hi, I'm Akhil_Jinu! <img src="https://media.giphy.com/media/l4Ki93SAmKFgJnObS/source.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/source.gif" width="230">
 <br/>
 <a href="https://twitter.com/">
-  <img align="left" alt="lenin_royal| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="akhil_jinu| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/lenin_royal">
+<a href="https://www.instagram.com/akhil_jinu">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://github.com/lenin0x321">
+<a href="https://github.com/X1ucifer">
   <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
 </a>
-<a href="https://wa.me/+918903547587">
+<a href="https://wa.me/+919655804621">
   <img align="left" alt="whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/whatsapp.svg" />
 </a>
 <br/>
 <br/>
 
 ### Hi 🙋‍♂️,
-### I'm 20 years old Self-taught developer, technical Guy , cyber security learner from India.
+### I'm 20 years old Self-taught Kiddo, technical Guy , cyber security learner , React developer from India.
 
 <br/>
 
@@ -28,10 +28,10 @@
 
 <br/>
 
-<a href="https://github.com/lenin0x321">
-  <img src="https://github-readme-stats.vercel.app/api?username=lenin0x321&show_icons=true&theme=blue-green&layout=compact" alt="lenin0x321 GitHub Stats" />
+<a href="https://github.com/X1ucifer">
+  <img src="https://github-readme-stats.vercel.app/api?username=lenin0x321&show_icons=true&theme=blue-green&layout=compact" alt="X1ucifer GitHub Stats" />
 </a>
-<a href="https://github.com/lenin0x321">
+<a href="https://github.com/X1ucifer">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenin0x321&show_icons=true&theme=blue-green&layout=compact" alt"Most use languages"/>
 </a>
 <br />
@@ -58,5 +58,5 @@
 #### Thank You-🙏🏼
 
 <p>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=lenin0x321" alt="visitor badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=X1ucifer" alt="visitor badge"/>
 </p>
