@@ -17,7 +17,7 @@
 <br/>
 
 ### Hi 🙋‍♂️,
-### I'm 21 years old Self-taught Kiddo, technical Guy , cyber security learner , React developer from India.
+### I'm 21 years old Self-taught Kiddo, technical Guy , cyber security learner ,Blockchain web3.0, React developer from India.
 
 <br/>
 
